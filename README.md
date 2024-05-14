@@ -1,6 +1,6 @@
 # U.S. Demand for Avocados and Conflict in Producing Regions
 
-<img src="avocado_import_value.png" height="300"/> <img src="event_frequency.png" height="300"/>
+<img src="avocado_import_value.png" width=45%/> <img src="event_frequency.png" width=45%/>
 
 ## Why Avocados
 
